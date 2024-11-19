@@ -1,0 +1,7 @@
+C:\Users\Syscom\source\repos\Select Parser - 01Systems Assignment\Select Parser - 01Systems Assignment\bin\Debug\Select Parser - 01Systems Assignment.exe.config
+C:\Users\Syscom\source\repos\Select Parser - 01Systems Assignment\Select Parser - 01Systems Assignment\bin\Debug\Select Parser - 01Systems Assignment.exe
+C:\Users\Syscom\source\repos\Select Parser - 01Systems Assignment\Select Parser - 01Systems Assignment\bin\Debug\Select Parser - 01Systems Assignment.pdb
+C:\Users\Syscom\source\repos\Select Parser - 01Systems Assignment\Select Parser - 01Systems Assignment\obj\Debug\Select Parser - 01Systems Assignment.csproj.AssemblyReference.cache
+C:\Users\Syscom\source\repos\Select Parser - 01Systems Assignment\Select Parser - 01Systems Assignment\obj\Debug\Select Parser - 01Systems Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Syscom\source\repos\Select Parser - 01Systems Assignment\Select Parser - 01Systems Assignment\obj\Debug\Select Parser - 01Systems Assignment.exe
+C:\Users\Syscom\source\repos\Select Parser - 01Systems Assignment\Select Parser - 01Systems Assignment\obj\Debug\Select Parser - 01Systems Assignment.pdb
